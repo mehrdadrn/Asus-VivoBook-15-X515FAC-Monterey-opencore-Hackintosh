@@ -10,6 +10,7 @@ gpu : Intel UHD630
 
 Ram : 4gb 2666mhz DDR4 ( Added 16gb 2666mhz DDR4 Crucial ram stick)
 
-ssd : 256GB nvme ( Replaced with kingstone 128gb nvme )
+SSD : 256GB nvme ( Replaced with kingstone 128gb nvme )
 
+Wifi : Replaced Realtek-RTL8821CE with an intel card
 opencore 0.8.8

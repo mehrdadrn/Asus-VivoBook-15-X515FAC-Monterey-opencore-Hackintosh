@@ -1,5 +1,7 @@
 # Asus-VivoBook-15-X515FAC-Monterey-opencore-Hackintosh
 
+Thanks to @anonymous030820 for EFI of X515ja
+
 << THIS IS A W.I.P >>
 
 Model :Asus Vivobook X515FA-SSD03W
